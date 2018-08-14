@@ -1,1 +1,1 @@
-alert("hy11")
+alert("hy")
